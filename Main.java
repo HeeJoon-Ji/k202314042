@@ -1,5 +1,7 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("지희준");
-    }
+
+  public static void main(String[] args) {
+    System.out.println("홍길동");
+    Hello.run();
+  }
 }
